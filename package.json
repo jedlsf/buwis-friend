@@ -1,0 +1,74 @@
+{
+  "name": "@thezelijah/buwis-friend",
+  "version": "1.0.0",
+  "description": "BuwisFriend is a smart tax assistant that lets you import digital invoices, track earnings, and automatically compute your payable taxes—including percentage, withholding, income tax, and VAT—so you always know your net income.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedlsf/buwis-friend.git"
+  },
+  "keywords": [
+    "tax",
+    "tax assistant",
+    "tax helper",
+    "Philippines tax",
+    "BIR",
+    "BIR Philippines",
+    "digital invoice",
+    "invoice import",
+    "smart tax tool",
+    "tax computation",
+    "withholding tax",
+    "percentage tax",
+    "income tax",
+    "VAT",
+    "tax automation",
+    "freelancer tax",
+    "self-employed tax",
+    "net income calculator",
+    "automated tax",
+    "BIR compliance",
+    "BIR eFPS",
+    "BIR eBIRForms",
+    "digital bookkeeping",
+    "accounting",
+    "finance",
+    "tax tool",
+    "bookkeeping",
+    "business finance",
+    "business tax",
+    "tax tracker",
+    "earnings tracker",
+    "tax reporting",
+    "tax breakdown",
+    "tax summary",
+    "filing taxes",
+    "freelance accounting",
+    "small business tax",
+    "Pinoy tax",
+    "tax computation PH",
+    "Philippine taxes",
+    "Buwis Friend",
+    "buwis-friend",
+    "buwis",
+    "zelijah",
+    "pricegenie"
+  ],
+  "author": "Zelijah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jedlsf/buwis-friend/issues"
+  },
+  "homepage": "https://github.com/jedlsf/buwis-friend#readme",
+  "devDependencies": {
+    "decimal.js": "^10.5.0",
+    "typedoc": "^0.28.5"
+  }
+}
